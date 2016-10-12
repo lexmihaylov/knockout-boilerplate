@@ -1,6 +1,6 @@
 # knockout-boilerplate
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/lexmihaylov/knockout-boilerplate)
+[![Travis](https://img.shields.io/travis/lexmihaylov/knockout-boilerplate.svg)](https://github.com/lexmihaylov/knockout-boilerplate)
 [![lexmihaylov](https://img.shields.io/david/lexmihaylov/knockout-boilerplate.svg)](https://github.com/lexmihaylov/knockout-boilerplate)
 [![Github](https://img.shields.io/github/release/lexmihaylov/knockout-boilerplate.svg)](https://github.com/lexmihaylov/knockout-boilerplate)
 [![Downloads](https://img.shields.io/github/downloads/lexmihaylov/knockout-boilerplate/total.svg)](https://github.com/lexmihaylov/knockout-boilerplate)

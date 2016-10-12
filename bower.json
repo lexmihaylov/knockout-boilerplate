@@ -2,11 +2,11 @@
   "name": "ko-boilerplate",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "~2.2.0",
+    "jquery": "~3.1.1",
     "knockout": "~3.4.0",
     "require-less": "~0.1.5",
-    "requirejs": "~2.1.22",
-    "text": "requirejs-text#~2.0.14",
+    "requirejs": "~2.3.2",
+    "text": "requirejs-text#~2.0.15",
     "pubsubjs": "^0.4.0"
   }
 }
