@@ -1,5 +1,5 @@
 {
-  "name": "tds-ui",
+  "name": "ko-boilerplate",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "~2.2.0",
