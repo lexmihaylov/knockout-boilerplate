@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "csso": "^2.2.1",
-    "less": "~2.7.1",
+    "less": "~1.7.5",
     "requirejs": "^2.3.2"
   }
 }
