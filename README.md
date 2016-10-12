@@ -1,4 +1,7 @@
 # knockout-boilerplate
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?maxAge=2592000)](https://github.com/lexmihaylov/knockout-boilerplate)
+[![lexmihaylov](https://img.shields.io/david/lexmihaylov/knockout-boilerplate.svg?maxAge=2592000)](https://github.com/lexmihaylov/knockout-boilerplate)
 
 A component based app boilerplate using knockout, requirejs and less.
 
