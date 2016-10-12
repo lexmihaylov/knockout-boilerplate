@@ -1,0 +1,14 @@
+{
+  "name": "tds-ui",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/r.js.cmd -o build.js"
+  },
+  "dependencies": {
+    "csso": "^1.4.4",
+    "less": "~1.7.5",
+    "requirejs": "^2.1.22"
+  }
+}

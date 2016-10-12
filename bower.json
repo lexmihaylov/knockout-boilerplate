@@ -1,0 +1,12 @@
+{
+  "name": "tds-ui",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "knockout": "~3.4.0",
+    "require-less": "~0.1.5",
+    "requirejs": "~2.1.22",
+    "text": "requirejs-text#~2.0.14",
+    "pubsubjs": "^0.4.0"
+  }
+}
