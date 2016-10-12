@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/r.js.cmd -o build.js"
+    "build": "./node_modules/.bin/r.js -o build.js"
   },
   "dependencies": {
     "csso": "^1.4.4",

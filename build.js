@@ -4,11 +4,11 @@
         components: 'app/components',
         services: 'app/services',
 
-        jquery: "vendor/jquery/dist/jquery",
-        ko: "vendor/knockout/dist/knockout.debug",
-        pubsub: "vendor/pubsubjs/pubsub",
+        jquery: "bower_components/jquery/dist/jquery",
+        ko: "bower_components/knockout/dist/knockout.debug",
+        pubsub: "bower_components/pubsubjs/pubsub",
 
-        text: "vendor/text/text",
+        text: "bower_components/text/text",
     },
     shim: {
         pubsub: {
@@ -17,7 +17,7 @@
     },
     map: {
         '*': {
-            'less': 'vendor/require-less/less' // path to less
+            'less': 'bower_components/require-less/less' // path to less
         }
     },
     name: "app/main",
