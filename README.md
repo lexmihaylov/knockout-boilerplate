@@ -21,6 +21,15 @@ npm install
 bower install
 ```
 
+# Running
+
+```bash
+npm install -g http-server
+http-server
+```
+
+Then navigate from your browser to http://localhost:8080/index.debug.html
+
 # Building
 ```bash
 npm run build
